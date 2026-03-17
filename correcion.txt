@@ -1,0 +1,7 @@
+Posibles mejoras:
+
+- Guardar cada turno y que cada movimiento se vea representado en el archivo creado, no solo al final de la partida.
+- Saber qué piezas mueve el jugador
+- Implementar IA espejo
+- Crear un contador 
+- Crear un reloj
